@@ -1,0 +1,10 @@
+c:\users\femi-blazer\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\bin\Debug\Computerize Land Information System.exe.config
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\bin\Debug\Computerize Land Information System.exe
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\bin\Debug\Computerize Land Information System.pdb
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize_Land_Information_System.Admin.resources
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize_Land_Information_System.Land_Formation_System.resources
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize_Land_Information_System.Login.resources
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize_Land_Information_System.Properties.Resources.resources
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize Land Information System.csproj.GenerateResource.Cache
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize Land Information System.exe
+C:\Users\FEMI-BLAZER\documents\visual studio 2013\Projects\Computerize Land Information System\Computerize Land Information System\obj\Debug\Computerize Land Information System.pdb
